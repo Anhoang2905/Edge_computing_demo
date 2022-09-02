@@ -1,2 +1,5 @@
-# Edge_computing_demo
-My final thesis
+# Penguin Counting
+Detection: YOLOV3-Tiny
+Tracking: OpenCV
+Github: 
+
